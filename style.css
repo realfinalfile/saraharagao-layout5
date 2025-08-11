@@ -36,8 +36,8 @@ body {
     background-color: white;
     border-radius: 8px;
     height: 100px;
-    flex: 1;
-    max-width: 300px;
+    min-width: 300px;
+    max-width: 100%;
 }
 
 .menu {
